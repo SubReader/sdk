@@ -1,2 +1,2 @@
-# sdk
-A description of the SubReader SDK
+# SubReader SDK documentation
+Under construction.
